@@ -16,6 +16,7 @@ The project covers the complete analytics workflow:
 Data Cleaning → Data Transformation → Data Modeling → DAX → Exploratory Data Analysis → Interactive Dashboard → Business Insights
 
 📊 Dashboard Preview
+![E-Commerce Power BI Dashboard](screenshot/dashboard.png)
 
 
 
